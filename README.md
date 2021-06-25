@@ -339,6 +339,6 @@ I will publish new posts of CKA exersises series first in my personal blog: http
 
 Also follow me on medium and Twitter [@warolv](https://twitter.com/warolv)
 
-My account on medium: [warolv.medium.com](warolv.medium.com)
+My account on medium: [warolv.medium.com](https://warolv.medium.com)
 
 You can find solution yamls in 'network-policies' folder.
