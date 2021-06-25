@@ -37,7 +37,7 @@ $ kubectl apply -f https://raw.githubusercontent.com/aws/amazon-vpc-cni-k8s/mast
 
 ## Environment Preparation
 
-1. Create moon namespace:
+1. Create **moon** namespace:
 
 ``` bash
 $ kubectl create ns moon
@@ -317,7 +317,7 @@ ingress:
     port: 80
 ```
 
-You must add it to web / api /db newtwork policy.
+You must add it to web / api /db network policy.
 
 8. **web pod** must have ingress and egress internet access (use external services to work properly), but must **deny egress access to any pod inside of the k8s cluster**, except api pod (which already done previously) in the same namespace.
 
@@ -337,6 +337,8 @@ It basically means **permit external**(internet) access, but **deny access to lo
 
 I will publish new posts of CKA exersises series first in my personal blog: http://igorzhivilo.com, and in this github repo, please clone this repo so I would now it's valuable to you and I will create more of exercises.
 
-Also follow me on medium and Twitter (@warolv).
+Also follow me on medium and Twitter [@warolv](https://twitter.com/warolv)
 
-My account on medium: warolv.medium.com
+My account on medium: [warolv.medium.com](warolv.medium.com)
+
+You can find solution yamls in 'network-policies' folder.
