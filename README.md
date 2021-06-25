@@ -335,7 +335,7 @@ egress:
 It basically means **permit external**(internet) access, but **deny access to local CIDRs**, because your k8s cluster has local IP ranges, egress access to local CIDRs will be denied from web pod.
 
 
-I will publish new posts of CKA exersises series first in my personal blog: http://igorzhivilo.com, and in this github repo, please clone this repo so I would now it's valuable to you and I will create more of exercises.
+I will publish new posts of CKA exersises series first in my personal blog: https://igorzhivilo.com, and in this github repo, please clone this repo so I would now it's valuable to you and I will create more of exercises.
 
 Also follow me on medium and Twitter [@warolv](https://twitter.com/warolv)
 
