@@ -7,6 +7,7 @@ I am a DevOps/Software engineer (at Cloudify.co), and I started preparation for 
 ### CKA exercises series published posts:
 
 * Network Policy
+* [Network Policy, Namespace](network-policy-ns.md)
 
 ## Prerequisites
 

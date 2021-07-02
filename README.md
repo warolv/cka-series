@@ -7,7 +7,7 @@ I started preparation for the CKA Kubernetes exam. In this series, I will share 
 ### CKA exercises series published posts:
 
 * [Network Policy](network-policy.md)
-* [Network Policy, Namespace]((network-policy-ns.md))
+* [Network Policy, Namespace](network-policy-ns.md)
 
 
 I will publish new posts of CKA exersises series first in my personal blog: https://igorzhivilo.com, and in this github repo, please clone this repo so I would now it's valuable to you and I will create more of exercises.
