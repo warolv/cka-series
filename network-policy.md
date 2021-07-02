@@ -2,7 +2,7 @@
 
 ![cka-exercises](images/network-policy/1.png)
 
-I am a DevOps/Software engineer (at Cloudify.co), and I started preparation for the CKA Kubernetes exam. In this series, I will share some exercises I find useful during my preparation in order to help you better prepare for the CKA exam. I will gather all exercises in this GitHub account, clone this repo to get all exercises at once.
+I started preparation for the CKA Kubernetes exam. In this series, I will share some exercises I find useful during my preparation in order to help you better prepare for the CKA exam. I will gather all exercises in this GitHub account, clone this repo to get all exercises at once.
 
 ### CKA exercises series published posts:
 

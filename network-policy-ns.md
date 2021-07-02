@@ -2,7 +2,7 @@
 
 ![cka-exercises](images/network-policy-ns/1.png)
 
-I am a DevOps/Software engineer (at Cloudify.co), and I started preparation for the CKA Kubernetes exam. In this series, I will share some exercises I find useful during my preparation in order to help you better prepare for the CKA exam. I will gather all exercises in this GitHub account, clone this repo to get all exercises at once.
+I started preparation for the CKA Kubernetes exam. In this series, I will share some exercises I find useful during my preparation in order to help you better prepare for the CKA exam. I will gather all exercises in this GitHub account, clone this repo to get all exercises at once.
 
 ### CKA exercises series published posts:
 
@@ -68,7 +68,7 @@ $ kubectl run --generator=run-pod/v1 test --image=nginx --labels=app=test --port
 $ kubectl expose pod test --type=ClusterIP --port=80 -n test
 ```
 
-This namespaces/pod will be used for testing, no network policies will be installed to this namespace
+This namespace/pod will be used for testing, no network policies will be installed to this namespace
 
 5. Validate that connections between all pods in different namespaces permitted.
 
